@@ -1,7 +1,7 @@
 # RealTime Sensing
 
 Repositorio del proyecto final.
-
+EQUIPO.03_ANGEL AVALOS 
 ## Contenido
 
 ### Interface — Código de ejemplo
