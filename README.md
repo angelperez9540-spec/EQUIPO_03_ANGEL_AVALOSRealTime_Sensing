@@ -24,3 +24,4 @@ RealTime_Sensing/
 ```
 
 Cada equipo debe crear su carpeta con el nombre acordado y subir ahí todos los archivos de su proyecto.
+ANGEL AVALOS, AGREGUE MI PARTICIPACION.
