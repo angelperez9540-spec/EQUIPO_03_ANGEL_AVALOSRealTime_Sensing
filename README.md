@@ -1,5 +1,6 @@
 # RealTime Sensing
-
+Participante:
+Angel Avalos
 Repositorio del proyecto final.
 EQUIPO.03_ANGEL AVALOS 
 ## Contenido
@@ -25,3 +26,4 @@ RealTime_Sensing/
 
 Cada equipo debe crear su carpeta con el nombre acordado y subir ahí todos los archivos de su proyecto.
 ANGEL AVALOS, AGREGUE MI PARTICIPACION.
+
